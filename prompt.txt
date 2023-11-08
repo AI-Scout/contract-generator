@@ -1,0 +1,382 @@
+Answers have been provided for the questions, as you can see pasted below:
+        
+        1. What is the mailing address of the seller?
+        Answer: {seller_address}
+        
+        2. What is the mailing address of the agency?
+        Answer: {agency_address}
+        
+        3. Do you grant the agency exclusive right-to-sell, exclusive agency, or open listing rights?
+        Answer: {listing_rights}
+        
+        4. What is the purchase price for the property?
+        Answer: {purchase_price}
+        
+        5. When does the listing agreement start and end?
+        Answer: {listing_period}
+        
+        6. If the property is sold within a certain period after the expiration of the listing period, are any commission fees due?
+        Answer: {commission_due}
+        
+        7. Do you prefer a percentage commission or a fixed payment commission?
+        Answer: {commission_type}
+        
+        8. What is the commission amount? (Provide as a percentage or fixed value based on your choice above)
+        Answer: {commission_amount}
+        
+        9. Are you authorizing the agency to advertise the property and use its street address in advertising?
+        Answer: {authorize_advertise}
+        
+        10. Do you authorize third-party websites to create estimated market values of the property?
+        Answer: {third_party_estimation}
+        
+        11. Are you allowing the agency to disclose the existence of other offers on the property?
+        Answer: {other_offers_disclosure}
+        
+        12. Are you authorizing the placement of a lockbox or key box on the property?
+        Answer: {lockbox_auth}
+        
+        13. Do you authorize a "For Sale" sign on the property?
+        Answer: {for_sale_sign}
+        
+        14. Are you giving permission for the agency to take and use photos and videos of the property for marketing purposes?
+        Answer: {media_permission}
+        
+        15. Are you allowing disclosed dual agency, or not allowing it?
+        Answer: {dual_agency}
+        
+        16. Have you reviewed and completed the Property Disclosure Statement accurately?
+        Answer: {property_disclosure}
+        
+        17. Do you acknowledge that the agency may have other clients with similar properties?
+        Answer: {agency_other_clients}
+        
+        18. Are you agreeing to binding arbitration in case of disputes?
+        Answer: {binding_arbitration}
+        
+        19. What state's laws will govern this agreement?
+        Answer: {governing_state}
+        
+        20. Are there any additional terms and conditions you want to include?
+        Answer: {additional_terms}
+        
+        21. Have you received a signed copy of this agreement?
+        Answer: {received_signed_copy}
+        
+        22. What is the date of the agreement?
+        Answer: {date_of_agreement}
+        
+        23. What is the seller's name?
+        Answer: {seller_name}
+        
+        24. Who is the broker's name?
+        Answer: {broker_name}
+        
+        25. What is the agency name?
+        Answer: {agency_name}
+        
+        26. What is the address of the real property?
+        Answer: {address_of_real_property}
+        
+        27. What is the Tax Map/Lot of the property?
+        Answer: {tax_map_lot}
+        
+        28. What is the deed book/page?
+        Answer: {deed_book_page}
+        
+        29. Are there any other specifics or details about the property you'd like to mention?
+        Answer: {other_info_about_property}
+        
+        30. What fixtures are not to be sold?
+        Answer: {fixtures_not_to_sell}
+        
+        31. What personal property shall be included in the sale?
+        Answer: {personal_property_included}
+        
+        32. What is the leasing percentage?
+        Answer: {leasing_percentage}
+        
+        33. What type of deed is being used for this transaction?
+        Answer: {deed_type}
+        
+        34. Are there any other licensed real estate agents involved? If so, what is their commission?
+        Answer: {other_agents_comission}
+
+Based on the answers to the questions above, fill out (and if necessary, edit) this contract and return a formatted contract with necessary markdown. Once again, it is imperative that you use the answers to the questions provided above, and return a COMPLETED version of this form. Only leave blanks where the answers provided are not sufficient.
+
+        Seller’s Initials - ______ Broker’s Initials - ______ Page 1 of 10
+        REAL ESTATE LISTING AGREEMENT
+        I. The Parties. This Real Estate Listing Agreement (“Agreement”) made on
+        ____________________, 20____, is between:
+        Seller: ____________________ (“Seller”) with a mailing address of
+        ____________________________________, City of ____________________, State of
+        ____________________
+        AND
+        Agency: ____________________ (“Broker”) of ____________________ (“Agency”) with a
+        mailing address of ____________________________________, City of
+        ____________________, State of ____________________. Collectively, the Seller and Agency
+        shall be referred to as the “Parties”.
+        If for any reason the Broker is not able to fulfill their duties under the terms and conditions of this
+        Agreement, another agent from the Agency may be appointed during the term of this
+        Agreement.
+        II. Real Property. The real property, that is the subject of this Agreement, is located at the
+        street address of ______________________________________________________________
+        a.) Legal Description.
+        Tax Map/Lot: ______/______
+        Deed Book/Page: ______/______
+        Other: ______________________________________________________________
+        b.) Fixtures. The Seller agrees that all fixtures shall be included as part of the sale
+        EXCEPT: ______________________________________________________________
+        c.) Personal Property. The Seller agrees that ONLY the following personal property shall
+        be included as part of the sale: _____________________________________________
+        The aforementioned real property, personal property, and included fixtures shall be hereinafter
+        referred to as the “Property”.
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 2 of 10
+        III. Rights to Sell. Seller grants Agency: (check one)
+        ☐ - Exclusive Right-to-Sell: The sole and exclusive right to sell, trade, convey, or
+        exchange the Property during the Listing Period in accordance with the terms and
+        conditions set forth in this Agreement. Seller hereby appoints Agency as the exclusive
+        agent and all inquiries made on the Property shall be referred to Agency. Agency shall
+        be paid the Commission whether or not the Property was sold, directly or indirectly,
+        through the Agency.
+        ☐ - Exclusive Agency: The exclusive agency right to sell, trade, convey, or exchange
+        the Property during the Listing Period in accordance with the terms and conditions set
+        forth in this Agreement. Seller hereby appoints Agency as the exclusive agent and to
+        represent the Seller as their client ONLY if a potential Buyer is produced by the Agency.
+        Seller retains the right to sell the Property directly, on their own behalf, with no
+        commission due to the Agency.
+        ☐ - Open Listing: The general non-exclusive right to sell, trade, convey, or exchange
+        the Property during the Listing Period in accordance with the terms and conditions set
+        forth in this Agreement. Seller hereby appoints Agency to represent the Seller as their
+        client ONLY if a potential Buyer is produced by the Agency. Seller retains the right to sell
+        the Property directly, on their own behalf, with no commission due to the Agency. In
+        addition, Seller reserves the right to enter into similar arrangements with other real
+        estate agents.
+        IV. Purchase Price. Under the terms of this Agreement, the Seller hereby grants the Agency
+        rights to sell the Property, including any Personal Property, for the following amount:
+        _______________________________________ Dollars ($____________________)
+        (“Purchase Price”).
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 3 of 10
+        V. Period of Agreement. This Agreement shall start on ____________________, 20____
+        (“Effective Date”), and end on ____________________, 20____, at 12:00 midnight (“Listing
+        Period”), unless the expiration date is extended in writing.
+        a.) Listing Period Extension. The Commission shall be due if the Property is sold,
+        conveyed, exchanged, optioned, or otherwise transferred within ____ days (“Extension
+        Period”) after the expiration of the Listing Period to anyone with whom the Broker or
+        Agency has negotiated unless the Property is listed, in good faith, with another real
+        estate agency. The term “negotiation” shall include providing information about the
+        Property, showing the Property, or presenting an offer on the Property. All rights under
+        this Section shall terminate upon the expiration of the Extension Period.
+        VI. Commission. The Agency, as compensation for finding a Buyer that is ready, willing, and
+        able to purchase the Property upon the terms and conditions mentioned herein or at any price
+        or terms acceptable to the Seller, shall receive: (check one)
+        ☐ - Percentage (%) Commission: A percentage based on the sales price, as stated in
+        the purchase contract between the Buyer and Seller, in the amount of
+        ____________________ percent ( ____% ) (“Commission”).
+        ☐ - Fixed Payment Commission: A fixed payment in the amount of
+        ____________________ Dollars ($__________) (“Commission”).
+        The Commission is due and payable at closing by the Seller. The amount or rate of real estate
+        commissions is not fixed by law. The commission is set by each Broker individually and may be
+        negotiable between the Seller and the Broker.
+        a.) Leasing. During the Listing Period, if the Agency finds a ready, willing, and able Tenant
+        that agrees to rent the Property, the Agency shall be due ____________________
+        percent ( ____% ) of the total rent amount stated in the rental agreement for the lease
+        term. The lease term shall be defined as the period between the start and end dates
+        listed in the rental agreement, not including any renewal period(s). If the Tenant agrees
+        to rent the Property on a month-to-month basis, the Agency shall be due the equivalent
+        of one (1) month’s rent (“Commission”).
+        b.) Deed Type. Seller agrees to convey the Property by ____________________ deed.
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 4 of 10
+        c.) Ready, Willing, and Able Buyer. Under this Agreement, the Commission shall be owed
+        to the Agency if a ready, willing, and able Buyer is produced and refused by the Seller.
+        The definition of a ready, willing, and able buyer shall include, but not be limited to, a
+        purchase contract that meets or exceeds the Purchase Price and does not contain
+        contingencies or terms that are unreasonable or outside of industry standards. The
+        Seller has an obligation to negotiate all offers presented by the Agency in “good faith”.
+        d.) Litigation. If a suit is brought against the Seller to collect compensation provided herein,
+        or if the Agency successfully defends any action brought against the Broker by Seller
+        relating to this Agreement or under any purchase contract relating to the Property, and
+        the Agency prevails, the Seller agrees to pay all costs incurred by Agency in connection
+        with such action, including reasonable attorneys’ fees.
+        VII. Cooperation with Other Agents and Agencies. Seller agrees that the Agency may
+        engage other licensed real estate agents to assist in marketing the Property and may share its
+        Commission, as determined solely by the Agency. During the Listing Period, should a licensee
+        represent a Buyer whose offer to purchase the Property is accepted by the Seller, then that
+        licensee shall be entitled to a commission of ____________________ percent ( ____% )
+        (“Commission Offered”), provided the Buyer completes the transaction.
+        VIII. Disclosed Dual Agency. Due to certain events, the Broker may be required to act as the
+        only licensee involved between the Seller and a Buyer to facilitate the transaction between the
+        parties. Under such circumstance, the Broker shall disclose to Seller their intention to act as a
+        disclosed dual agent or similar role. If a Buyer is procured by the Broker, or by a licensee in the
+        same Agency as the Broker, the Seller consents to the Broker acting in such a role and agrees
+        to allow the Broker to collect compensation from the Buyer or other parties. While performing
+        this role, Broker agrees to conduct themselves in a manner that does not adversely affect the
+        Seller or Buyer in any way, including, but not limited to, stating the Seller is willing to sell for a
+        lesser price than the Purchase Price, stating the Buyer is willing to pay more than an offer that is
+        made or suggested, or disclosing any type of financial information that would negatively affect
+        the other party.
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 5 of 10
+        Seller has read this Section and fully comprehends and understands the concept of Disclosed
+        Dual Agency under the laws in the State. Therefore, the Seller hereby agrees to ☐ ALLOW
+        Disclosed Dual Agency ☐ NOT ALLOW Disclosed Dual Agency.
+        IX. Marketing the Property. In an effort to properly and efficiently market the Property, the
+        Seller grants the following permissions to the Agency: (Initial ALL That Apply)
+        _______ - Advertise the Property.
+        _______ - To use the Property’s street address when advertising the Property.
+        _______ - Allow third (3rd) party websites to create estimated market values of the
+        Property.
+        _______ - Allow the Agency to disclose the existence of other offers on the Property.
+        _______ - Publish any and all Property information electronically or in print. This
+        includes, but is not limited to, the Multiple Listing Service (MLS), real estate websites,
+        newspapers, etc.
+        _______ - Place a lockbox or key box on the Property. The Seller shall hold harmless
+        the Agency and all cooperating licensees from all responsibility and liability resulting
+        from any loss, damage, or theft which might occur while the Property is listed by the
+        Agency under this Agreement.
+        _______ - Authorize a “For Sale” Sign on the Property.
+        _______ - Photographic Services. Seller hereby authorizes the Agency to take interior
+        and exterior photos and videos of the Property (“Photographic Services”). Such
+        photographs and videos shall be permitted to be digitized, reproduced, published,
+        transmitted, and/or disseminated and displayed in any form or manner, including, but not
+        limited to, Multiple Listing Services, television, internet marketing, publications, and any
+        other means to advertise the Property to aid in the marketing of the Property. Seller
+        agrees to limit the use of the photos or videos generated from the Photographic Services
+        to personal use and may not be used for commercial purposes.
+        a.) Waiver of Liability. Seller hereby waives, acquits, and forever releases, and
+        agrees to defend and hold harmless, the Agency, its officer(s), director(s),
+        employee(s), contractor(s), associate(s), and representative(s) from any
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 6 of 10
+        responsibility or liability whatsoever concerning any photos or videos generated
+        from the Photographic Services or their distribution.
+        X. Agency Disclosure. Seller recognizes that, under this Agreement, a relationship has been
+        established between the Seller and Agency. The Agency’s policy regarding other agents,
+        specifically those not represented by the Agency, includes, but is not limited to, cooperating with
+        other agencies acting as Buyer’s agents, sharing compensation with Buyer’s agents, and paying
+        other agencies in the same manner representing their Buyers.
+        XI. Non-Refundable Payments. If the Seller accepts non-refundable payment(s) from a
+        prospective Buyer through a purchase contract, and said Buyer does not complete the purchase
+        of the Property, such non-refundable payment(s) shall be distributed equally between the Seller
+        and the Agency up to the commission amount the Agency would have collected if the Property
+        had sold under the agreed upon terms. If the Property is sold afterward to the same or different
+        Buyer, the Agency shall be entitled to a Commission less payments received under this Section.
+        XII. Fair Housing. The Agency is committed to compliance with all laws as well as the
+        philosophy of fair housing for all people. The Agency will present the Property to all prospective
+        Buyers in compliance with local, State, and Federal Fair Housing laws against discrimination on
+        the basis of race, color, religion, sex, national origin, handicap, age, marital status and/or
+        familial status, children, or other prohibited factors.
+        XIII. Ownership. Seller warrants and acknowledges to be the owner of the Property and that no
+        other individuals or entities have title. Seller has the authority as owner to execute this
+        Agreement and sell the Property.
+        XIV. Multiple Listing Service (MLS). Due to rules administered by the local Multiple Listing
+        Service (“MLS”), all details of any transaction that are procured by the Agency may be used for
+        publication in the MLS. Seller hereby consents to such publication on an unrestricted basis
+        whereas the Agency must comply with all applicable MLS rules to allow data about the Property
+        to be shown and made available by the MLS in addition to other internet websites. MLS rules
+        generally provide that any property entered into its database be updated within forty-eight (48)
+        hours, or some other period of time, after all necessary signatures have been obtained in regard
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 7 of 10
+        to the Property. Seller has the right to prohibit any and all publication of information in regard to
+        a transfer of the Property. In order to exercise this right, the Seller is required to authorize a
+        separate addendum provided by the Agency and attach to this Agreement.
+        XV. Seller Acknowledgments. Seller represents, warrants, and guarantees that the Seller has
+        complete authority to sell the Property and convey title. Seller has personally reviewed this
+        Agreement, including any Property Disclosure Statement, and any other addendums, exhibits,
+        or attachments relating to the description and physical condition of the Property were provided
+        by the Seller and are accurate and complete to the best of the Seller’s knowledge.
+        a.) Other Acknowledgments. Seller acknowledges, unless otherwise stated in this
+        Agreement or other written statement, that the Seller is unaware of the following:
+        I. Any type of default that has been recorded against the Property;
+        II. Any type of financial delinquency which used the Property as security;
+        III. Any type of bankruptcy or insolvency involving the Seller or affecting the
+        Property; and
+        IV. Any type of mediation, arbitration, litigation, or any proceeding where an
+        institution, public or private, has action pending against the Property which
+        includes the Seller’s ability to sell the Property.
+        Seller agrees to notify the Agency immediately if any of the aforementioned issues
+        should arise during the Listing Period.
+        XVI. Broker’s Duties. Broker agrees to exercise all reasonable efforts while providing a
+        fiduciary duty to act in the best interests of the Seller. Broker shall market the Property to the
+        best of their abilities in order to achieve the highest sales price feasible for the Seller. Broker
+        shall make all attempts to transfer the Property to a qualified Buyer and shall follow-up with
+        every effort to ensure such result is to the benefit of the Seller.
+        XVII. Seller’s Duties. Seller agrees to make a reasonable effort to accommodate the Broker,
+        including, but not limited to, open houses, showings, Buyer appointments, inspections, testing,
+        and any other requests regarding the use of the Property. When receiving offers, the Seller
+        agrees, in good faith, to consider all proposals, letters, or similar contracts presented by the
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 8 of 10
+        Broker. Seller shall be the only party responsible for determining the Purchase Price or any
+        price for the sale of the Property.
+        XVIII. Legal Signature. This Agreement may be executed and delivered by any party herein by
+        sending a facsimile of the signature or by a legally recognized digital or electronic signature.
+        Such legal signature shall be binding on the party so executing it upon receipt of signature by
+        the other party.
+        XIX. Indemnification. Seller agrees to indemnify the Agency and hold harmless from any and
+        all claims, which may lead to a dispute, due to any false information provided. Such
+        indemnification shall include the Seller’s reimbursement to the Agency for any attorneys’ fees
+        arising from any dispute brought against the Agency.
+        XX. Earnest Money. Seller authorizes the Agency to handle Buyer’s funds and deposit in an
+        escrow account in accordance with State law (“Earnest Money”). Agency is authorized to act as
+        a third (3rd) party when accepting or holding, on the Seller’s behalf, deposits made on behalf of a
+        prospective Buyer. In the event a counteroffer is not accepted, the Earnest Money shall be
+        returned to the Buyer without a signed release. If a purchase contract is signed and accepted by
+        the Buyer and Seller without a closing or transfer and recording of the deed, a separate mutual
+        release signed by the Buyer and Seller will be required before the Earnest Money is disbursed.
+        In the event of a disagreement by either the Buyer or Seller in regard to the release of Earnest
+        Money, the Agency must withhold its release until there is mutual agreement or an order has
+        been administered of proper jurisdiction.
+        XXI. Property Disclosure Statement. In accordance with State law, it may be required that the
+        Seller complete the Property Disclosure Statement to the best of their ability and provide true,
+        factual, and accurate information. If required, the Agency shall be required to disclose any
+        information provided in the Property Disclosure Statement to any prospective Buyer or their
+        agent including facts that may materially affect the value of the Property.
+        a.) Property Condition. Seller hereby authorizes the Agency and all cooperating
+        licensees to disclose to a prospective Buyer, to the extent as required by law, any
+        defects known to them, latent or otherwise. Seller acknowledges that licensees do
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 9 of 10
+        not have the responsibility to discover latent defects on the Property or to advise on
+        matters outside the scope of their licenses.
+        XXII. Lead-Based Paint. The Seller represents that, to the best of their knowledge, the
+        structure on the Property or any portion thereof, was not constructed before January 1, 1978.
+        Seller acknowledges that, if the residence was constructed prior to January 1, 1978, there is a
+        requirement to provide any Buyer an EPA-approved lead hazard information pamphlet making
+        certain disclosures regarding the presence of any known lead-based paint or other lead-based
+        paint hazards on the Property, unless the Buyer waives their rights in writing. If any structure
+        was constructed prior to January 1, 1978, the Buyer shall have a ten (10) day period to conduct
+        a risk assessment or inspection of the Property to seek any presence of lead-based paint or any
+        lead-based paint hazards.
+        XXIII. Insurance. Seller agrees to maintain hazard or other insurance, current as of the
+        Effective Date, during the course of this Agreement until the Property is sold.
+        XXIV. Other Clients. Seller acknowledges that the Broker may or may not have other clients
+        with similar property characteristics as the Seller. Broker shall not favor any client’s property
+        over the Seller’s Property for any reason.
+        XXV. Binding Effect. This Agreement shall be binding upon the Seller’s successors, assigns,
+        heirs, and beneficiaries.
+        XXVI. Dispute Resolution. Any dispute arising from this Agreement shall be required to be
+        resolved by binding arbitration of the Parties hereto. If the Parties cannot agree on an arbitrator,
+        each party shall select one arbitrator, and both arbitrators shall select a third (3rd) to handle the
+        dispute. The arbitration shall be governed by the rules of the American Arbitration Association in
+        full force and effect.
+        XXVII. Governing Law. This Agreement shall be governed under the laws located in the State
+        of ____________________.
+         Seller’s Initials - ______ Broker’s Initials - ______ Page 10 of 10
+        XXVIII. Severability. This Agreement shall remain in effect in the event a section or provision is
+        unenforceable or invalid. All remaining sections and provisions shall be deemed legally binding
+        unless a court rules that any such provision or section is invalid or unenforceable, thus, limiting
+        the effect of another provision or section. In such case, the affected provision or section shall be
+        enforced as so limited.
+        XXIX. Additional Terms and Conditions. __________________________________________
+        ____________________________________________________________________________
+        ____________________________________________________________________________
+        XXX. Entire Agreement. This Agreement constitutes the entire agreement between the Seller
+        and the Agency and supersedes all prior discussions, negotiations, and agreements between
+        the Parties whether oral or written. Any understanding, agreement, or promise not specified
+        herein, whether expressed or implied, shall bind neither Seller nor Agency.
+        This Agreement is intended to be the legal and binding agreement of the Seller and Broker. The
+        Parties acknowledge receipt of a signed copy of this Agreement.
+        Seller’s Signature _____________________________ Date: ____________________
+        Print Name _____________________________
+        Seller’s Signature _____________________________ Date: ____________________
+        Print Name _____________________________
+        Broker’s Signature _____________________________ Date: ____________________
+        Print Name _____________________________
+        Agency Name: _____________________________
